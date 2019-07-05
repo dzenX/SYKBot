@@ -1,0 +1,28 @@
+*.token
+*.sublime*
+settings/
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea/
+*.py[cod]
+*$py.class
+
+# Logs and databases #
+######################
+log/
+*.log
+*.sql
+*.sqlite
+
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
